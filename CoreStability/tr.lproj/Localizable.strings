@@ -1,0 +1,307 @@
+/* 
+  Localizable.strings (Turkish)
+  CoreStability
+*/
+
+// MARK: - Ana Menü
+"CORE STABILITY" = "CORE STABILITY";
+"TOWER DEFENSE" = "KULE SAVUNMASI";
+"START GAME" = "OYUNA BAŞLA";
+"Tap to enable sound" = "Sesi açmak için dokun";
+
+// MARK: - HUD
+"WAVE" = "DALGA";
+"Wave %d" = "Dalga %d";
+"Chapter %d - Wave %d" = "Bölüm %d - Dalga %d";
+"STATS" = "İSTATİSTİKLER";
+"Damage" = "Hasar";
+"Fire Rate" = "Ateş Hızı";
+"Range" = "Menzil";
+"Health" = "Can";
+"Defense" = "Savunma";
+"Lv.%d" = "Sv.%d";
+
+// MARK: - Yükseltme Merkezi
+"UPGRADE CENTER" = "YÜKSELTİM MERKEZİ";
+"RESUME" = "DEVAM ET";
+"BUY TURRET" = "TARET AL";
+"LOCKED" = "KİLİTLİ";
+"HEAL 50%%" = "%%50 İYİLEŞ";
+
+// MARK: - Oyun Sonu
+"GAME OVER" = "OYUN BİTTİ";
+"Watch Ad to Revive" = "📺 Reklam İzle ve Diril";
+"Restart" = "Yeniden Başlat";
+"Main Menu" = "Ana Menü";
+"REVIVED!" = "DİRİLDİN!";
+
+// MARK: - Yetenekler
+"FREEZE!" = "❄️ DONDUR! ❄️";
+"LASER!" = "🔴 LAZER! 🔴";
+"SHIELD!" = "🛡️ KALKAN! 🛡️";
+"EMP!" = "⚡ EMP! ⚡";
+
+// MARK: - Özel Olaylar
+"BOSS IS COMING" = "⚠️ BOSS GELİYOR ⚠️";
+"CHAPTER %d" = "🎯 BÖLÜM %d 🎯";
+"Difficulty increased!" = "Zorluk arttı!";
+"PERFECT CLEAR!" = "⭐ MÜKEMMEL TEMİZLİK!";
+"%dx COMBO!" = "%dx KOMBO!";
+
+// MARK: - Duraklat Menüsü
+"PAUSED" = "DURAKLATILDI";
+"AUDIO SETTINGS" = "SES AYARLARI";
+"SESSION STATS" = "OTURUM İSTATİSTİKLERİ";
+"Music" = "Müzik";
+"Sound Effects" = "Ses Efektleri";
+"ON" = "AÇIK";
+"OFF" = "KAPALI";
+
+// MARK: - Günlük Ödüller
+"Daily Reward!" = "🎁 Günlük Ödül!";
+"Day %d" = "Gün %d";
+"%d day streak!" = "🔥 %d günlük seri!";
+"CLAIM" = "AL";
+
+// MARK: - Perk / Kart Seçimi
+"CHOOSE A PERK" = "🃏 BİR YETENEK SEÇ 🃏";
+"%@ Acquired!" = "%@ Kazanıldı!";
+"Pierce All" = "Delici Atış";
+"Penetration +%d (%dh)" = "Delme +%d (%ds)";
+"Rapid Fire" = "Hızlı Ateş";
+"Fire Rate +%d%%" = "Ateş Hızı +%d%%";
+"Critical Hit" = "Kritik Vuruş";
+"Crit Chance +%d%%" = "Kritik Şansı +%d%%";
+"Vampire" = "Vampir";
+"Lifesteal +%d%%" = "Can Çalma +%d%%";
+"Giant Slayer" = "Dev Avcısı";
+"Bonus damage to bosses" = "Bosslara ekstra hasar";
+"Gold Rush" = "Altın Yağmuru";
+"Coin multiplier +%d%%" = "Para çarpanı +%d%%";
+"Burning" = "Yanık";
+"Enemies burn for %d damage" = "Düşmanlar %d hasar yanar";
+"Freeze Aura" = "Donma Aurası";
+"Slow nearby enemies" = "Yakındaki düşmanları yavaşlat";
+"Chain Lightning" = "Zincir Şimşek";
+"Attacks chain to nearby enemies" = "Saldırılar yakındaki düşmanlara sıçrar";
+"Double Shot" = "Çift Atış";
+"Fire 2 projectiles" = "2 mermi ateşle";
+"Triple Shot" = "Üçlü Atış";
+"Fire 3 projectiles" = "3 mermi ateşle";
+
+// MARK: - Mağaza / Pazar
+"MARKET & VAULT" = "PAZAR & KASA";
+"PERK VAULT" = "KASA";
+"ARMORY" = "SİLAH";
+"BAG" = "ÇANTA";
+"GEM SHOP" = "ELMAS";
+"LEGENDARY PERKS" = "EFSANEVİ YETENEKLER";
+"Guaranteed Legendary every 50 pulls!" = "Her 50 çekilişte garantili Efsanevi!";
+"PULL 1x" = "1x ÇEK";
+"PULL 10x" = "10x ÇEK";
+"Pity: %d pulls left" = "Garanti: %d çekiliş kaldı";
+"Your bag is empty" = "Çantan boş";
+"Try your luck at Perk Vault!" = "Yetenek Kasası'nda şansını dene!";
+"Page %d / %d" = "Sayfa %d / %d";
+"< PREV" = "< ÖNCEKİ";
+"NEXT >" = "SONRAKİ >";
+"USE" = "KULLAN";
+"ADVANCED WEAPONRY" = "SİLAHLAR";
+"COLLECT" = "TOPLA";
+"NEXT" = "İLERİ";
+"EQUIPPED" = "DONATILDI";
+"Not Owned" = "Sahip Değil";
+"Rent" = "Kirala";
+"Buy" = "Satın Al";
+"15 DAYS" = "15 GÜN";
+"LIFETIME" = "ÖMÜR BOYU";
+"POPULAR" = "POPÜLER";
+"Restore Purchases" = "Satın Alımları Geri Yükle";
+
+// MARK: - Silahlar
+"Pistol" = "Tabanca";
+"Default Sidearm" = "Varsayılan Silah";
+"Shotgun" = "Pompalı";
+"Railgun" = "Raygun";
+"Spinning Blade" = "Dönen Bıçak";
+
+// MARK: - Elmas Paketleri
+"Handful of Gems" = "Bir Avuç Elmas";
+"Pouch of Gems" = "Elmas Kesesi";
+"Chest of Gems" = "Elmas Sandığı";
+"Vault of Gems" = "Elmas Kasası";
+
+// MARK: - Sosyal
+"SOCIAL HUB" = "SOSYAL MERKEZ";
+"Open Game Center" = "Game Center'ı Aç 🎮";
+"Top Players (Global)" = "En İyi Oyuncular (Dünya)";
+"Level %d" = "Seviye %d";
+"Active Bonuses:" = "Aktif Bonuslar:";
+"No Clan" = "Klan Yok";
+"Available Clans:" = "Mevcut Klanlar:";
+"JOIN" = "KATIL";
+"Lvl %d • %d Members" = "Sv %d • %d Üye";
+
+// MARK: - Görevler
+"QUESTS & PASS" = "GÖREVLER & PASS";
+
+// MARK: - Yetenek Çubuğu
+"UZI" = "UZİ";
+"ROCKET" = "ROKET";
+"FREEZE" = "DONDUR";
+"LASER" = "LAZER";
+"SHIELD" = "KALKAN";
+"EMP" = "EMP";
+
+// MARK: - Gacha Perk İsimleri (Common)
+"Minor Damage" = "Hafif Hasar";
+"Slightly increase damage" = "Hasarı biraz artır";
+"Quick Hands" = "Hızlı Eller";
+"Slightly faster attacks" = "Biraz daha hızlı saldırı";
+"Coin Hunter" = "Para Avcısı";
+"Find more coins" = "Daha fazla para bul";
+"Tough Skin" = "Sert Deri";
+"More health" = "Daha fazla can";
+"Keen Eye" = "Keskin Göz";
+"Slightly more range" = "Biraz daha menzil";
+
+// MARK: - Gacha Perk İsimleri (Rare)
+"Power Strike" = "Güçlü Vuruş";
+"Deal more damage" = "Daha fazla hasar ver";
+"Lucky Shot" = "Şanslı Atış";
+"Better crit chance" = "Daha iyi kritik şansı";
+"Rapid Fire" = "Hızlı Ateş";
+"Attack faster" = "Daha hızlı saldır";
+"Gold Rush" = "Altın Yağmuru";
+"More coins" = "Daha fazla para";
+"Trust Fund" = "Miras";
+"Start with gold" = "Altınla başla";
+
+// MARK: - Gacha Perk İsimleri (Epic)
+"Berserker" = "Berserker";
+"Major damage boost" = "Büyük hasar artışı";
+"Executioner" = "Cellat";
+"High crit chance" = "Yüksek kritik şansı";
+"Devastator" = "Yıkıcı";
+"Crits hurt more" = "Kritikler daha çok acıtır";
+"Explosive" = "Patlayıcı";
+"Splash damage" = "Alan hasarı";
+"Iron Will" = "Demir İrade";
+"Massive HP boost" = "Büyük can artışı";
+
+// MARK: - Gacha Perk İsimleri (Legendary)
+"God Slayer" = "Tanrı Katili";
+"Legendary damage (3h)" = "Efsanevi hasar (3s)";
+"Destiny's Edge" = "Kaderin Kılıcı";
+"Ultimate crits (3h)" = "Yüksek kritik (3s)";
+"Pierce All" = "Delici Atış";
+"Shots penetrate (3h)" = "Mermiler delip geçer (3s)";
+"Midas Touch" = "Midas'ın Dokunuşu";
+"Double coins (3h)" = "Çift para (3s)";
+"Ascension" = "Yükseliş";
+"All stats boost (3h)" = "Tüm istatistikler artar (3s)";
+
+// MARK: - Perk Efekt Açıklamaları
+"+%d%% Damage" = "+%d%% Hasar";
+"+%d%% Crit Chance" = "+%d%% Kritik Şansı";
+"+%d%% Crit Damage" = "+%d%% Kritik Hasarı";
+"+%d%% Attack Speed" = "+%d%% Saldırı Hızı";
+"+%d%% Coin Bonus" = "+%d%% Para Bonusu";
+"+%d Starting Gold" = "+%d Başlangıç Altını";
+"+%d%% Max HP" = "+%d%% Maks Can";
+"+%d%% Range" = "+%d%% Menzil";
+"+%d%% Splash Damage" = "+%d%% Alan Hasarı";
+"+%d Penetration" = "+%d Delme";
+
+// MARK: - InventoryManager Efekt Açıklamaları (Süreli)
+"+50% DMG (3h)" = "+%50 Hasar (3s)";
+"+20% Crit (3h)" = "+%20 Kritik (3s)";
+"Penetration +3 (3h)" = "Delme +3 (3s)";
+"+100% Coins (3h)" = "+%100 Para (3s)";
+"+25% All Stats (3h)" = "+%25 Tüm Statlar (3s)";
+"+20% Damage (1h)" = "+%20 Hasar (1s)";
+"+10% Crit Rate (1h)" = "+%10 Kritik Oranı (1s)";
+"+30% Crit DMG (1h)" = "+%30 Kritik Hasarı (1s)";
+"+25% Splash (1h)" = "+%25 Alan Hasarı (1s)";
+"+25% Health (1h)" = "+%25 Can (1s)";
+"+10% Damage (30m)" = "+%10 Hasar (30dk)";
+"+5% Crit (30m)" = "+%5 Kritik (30dk)";
+"+10% Attack Speed (30m)" = "+%10 Saldırı Hızı (30dk)";
+"+15% Coins (30m)" = "+%15 Para (30dk)";
+"+500 Start Gold (30m)" = "+500 Başlangıç Altını (30dk)";
+"+5% Damage (15m)" = "+%5 Hasar (15dk)";
+"+5% Attack Speed (15m)" = "+%5 Saldırı Hızı (15dk)";
+"+5% Coins (15m)" = "+%5 Para (15dk)";
+"+5% Health (15m)" = "+%5 Can (15dk)";
+"+5% Range (15m)" = "+%5 Menzil (15dk)";
+
+// MARK: - Wave Perk İsimleri ve Açıklamaları
+"Heavy Caliber" = "Ağır Kalibre";
+"+15% Damage" = "+%15 Hasar";
+"Lethal Precision" = "Ölümcül Hassasiyet";
+"+5% Critical Chance" = "+%5 Kritik Şansı";
+"Golden Touch" = "Altın Dokunuş";
+"+20% Coin Value" = "+%20 Para Değeri";
+"Overclock" = "Hız Aşırtma";
+"+5% Fire Rate" = "+%5 Ateş Hızı";
+"Volatile Rounds" = "Patlayıcı Mermiler";
+"10% Chance to Explode" = "%10 Patlama Şansı";
+"Long Barrel" = "Uzun Namlu";
+"+10% Range" = "+%10 Menzil";
+"Reinforced Hulk" = "Güçlendirilmiş Zırh";
+"+20% Max HP" = "+%20 Maks Can";
+"Tesla Chain" = "Tesla Zinciri";
+"Lightning chains to enemies" = "Şimşek düşmanlara zıplar";
+"Chain Lightning" = "Zincir Şimşek";
+"Hits chain to 2 enemies" = "Vuruşlar 2 düşmana sıçrar";
+"Vampire Touch" = "Vampir Dokunuşu";
+"Heal 5% of damage dealt" = "Verilen hasarın %5'i kadar iyileş";
+"Iron Thorns" = "Demir Dikenler";
+"Reflect 10% damage" = "%10 hasarı yansıt";
+"Berserker Rage" = "Berserker Öfkesi";
+"+2% damage per 10% HP lost" = "Kaybedilen her %10 can için +%2 hasar";
+"⚠️ Glass Cannon" = "⚠️ Cam Top";
+"+100% Damage, -50% HP" = "+%100 Hasar, -%50 Can";
+"⚠️ Blood Money" = "⚠️ Kanlı Para";
+"+50% Coins, -20% HP" = "+%50 Para, -%20 Can";
+"⚠️ Overcharge" = "⚠️ Aşırı Yük";
+"+100% Fire Rate, 1 DPS to tower" = "+%100 Ateş Hızı, kuleye 1 hasar/sn";
+"Orbital Strike" = "Yörünge Saldırısı";
+"Calls down a laser every 5s" = "Her 5 saniyede lazer indirir";
+"Time Warp" = "Zaman Bükümü";
+"Freezes time every 10s" = "Her 10 saniyede zamanı dondurur";
+"Black Hole" = "Kara Delik";
+"5% Chance to spawn vortex" = "%5 girdap oluşturma şansı";
+
+// MARK: - Yükseltme Merkezi Stat İsimleri
+"DAMAGE" = "HASAR";
+"FIRE RATE" = "ATEŞ HIZI";
+"RANGE" = "MENZİL";
+"MAX HP" = "MAKS CAN";
+"DEFENSE" = "SAVUNMA";
+
+// MARK: - Oyun İçi UI
+"HEAL 50%" = "CAN %50";
+"Damage" = "Hasar";
+"Fire Rate" = "Ateş Hızı";
+"Range" = "Menzil";
+"Health" = "Can";
+"Defense" = "Savunma";
+
+// MARK: - Market (Silahlar & Yükseltmeler)
+"Turret Slot %d" = "Taret Yuvası %d";
+"Unlocked!" = "Açık!";
+"Deploy an extra turret!" = "Ekstra bir taret konuşlandır!";
+"Spinning Blade" = "Dönen Bıçak";
+"Orbital Weapon" = "Yörünge Silahı";
+"Pistol" = "Tabanca";
+"Default Sidearm" = "Varsayılan Silah";
+"Shotgun" = "Pompalı";
+"Railgun" = "Ray Silahı";
+"OWNED" = "SAHİP OLUNAN";
+"Rent" = "Kirala";
+"Buy" = "Satın Al";
+
+
+
+

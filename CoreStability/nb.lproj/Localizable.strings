@@ -1,0 +1,155 @@
+/* 
+  Localizable.strings (English - Base)
+  CoreStability
+*/
+
+// MARK: - Main Menu
+"CORE STABILITY" = "CORE STABILITY";
+"TOWER DEFENSE" = "TOWER DEFENSE";
+"START GAME" = "START GAME";
+"Tap to enable sound" = "Tap to enable sound";
+
+// MARK: - HUD
+"WAVE" = "WAVE";
+"Wave %d" = "Wave %d";
+"Chapter %d - Wave %d" = "Chapter %d - Wave %d";
+"STATS" = "STATS";
+"Damage" = "Damage";
+"Fire Rate" = "Fire Rate";
+"Range" = "Range";
+"Health" = "Health";
+"Defense" = "Defense";
+"Lv.%d" = "Lv.%d";
+
+// MARK: - Upgrade Center
+"UPGRADE CENTER" = "UPGRADE CENTER";
+"RESUME" = "RESUME";
+"BUY TURRET" = "BUY TURRET";
+"LOCKED" = "LOCKED";
+"HEAL 50%%" = "HEAL 50%%";
+
+// MARK: - Game Over
+"GAME OVER" = "GAME OVER";
+"Watch Ad to Revive" = "📺 Watch Ad to Revive";
+"Restart" = "Restart";
+"Main Menu" = "Main Menu";
+"REVIVED!" = "REVIVED!";
+
+// MARK: - Abilities
+"FREEZE!" = "❄️ FREEZE! ❄️";
+"LASER!" = "🔴 LASER! 🔴";
+"SHIELD!" = "🛡️ SHIELD! 🛡️";
+"EMP!" = "⚡ EMP! ⚡";
+
+// MARK: - Special Events
+"BOSS IS COMING" = "⚠️ BOSS IS COMING ⚠️";
+"CHAPTER %d" = "🎯 CHAPTER %d 🎯";
+"Difficulty increased!" = "Difficulty increased!";
+"PERFECT CLEAR!" = "⭐ PERFECT CLEAR!";
+"%dx COMBO!" = "%dx COMBO!";
+
+// MARK: - Pause Menu
+"PAUSED" = "PAUSED";
+"AUDIO SETTINGS" = "AUDIO SETTINGS";
+"SESSION STATS" = "SESSION STATS";
+"Music" = "Music";
+"Sound Effects" = "Sound Effects";
+"ON" = "ON";
+"OFF" = "OFF";
+
+// MARK: - Daily Rewards
+"Daily Reward!" = "🎁 Daily Reward!";
+"Day %d" = "Day %d";
+"%d day streak!" = "🔥 %d day streak!";
+"CLAIM" = "CLAIM";
+
+// MARK: - Perks / Card Selection
+"CHOOSE A PERK" = "🃏 CHOOSE A PERK 🃏";
+"%@ Acquired!" = "%@ Acquired!";
+"Pierce All" = "Pierce All";
+"Penetration +%d (%dh)" = "Penetration +%d (%dh)";
+"Rapid Fire" = "Rapid Fire";
+"Fire Rate +%d%%" = "Fire Rate +%d%%";
+"Critical Hit" = "Critical Hit";
+"Crit Chance +%d%%" = "Crit Chance +%d%%";
+"Vampire" = "Vampire";
+"Lifesteal +%d%%" = "Lifesteal +%d%%";
+"Giant Slayer" = "Giant Slayer";
+"Bonus damage to bosses" = "Bonus damage to bosses";
+"Gold Rush" = "Gold Rush";
+"Coin multiplier +%d%%" = "Coin multiplier +%d%%";
+"Burning" = "Burning";
+"Enemies burn for %d damage" = "Enemies burn for %d damage";
+"Freeze Aura" = "Freeze Aura";
+"Slow nearby enemies" = "Slow nearby enemies";
+"Chain Lightning" = "Chain Lightning";
+"Attacks chain to nearby enemies" = "Attacks chain to nearby enemies";
+"Double Shot" = "Double Shot";
+"Fire 2 projectiles" = "Fire 2 projectiles";
+"Triple Shot" = "Triple Shot";
+"Fire 3 projectiles" = "Fire 3 projectiles";
+
+// MARK: - Shop / Market
+"MARKET & VAULT" = "MARKET & VAULT";
+"PERK VAULT" = "PERK VAULT";
+"ARMORY" = "ARMORY";
+"BAG" = "BAG";
+"GEM SHOP" = "GEM SHOP";
+"LEGENDARY PERKS" = "LEGENDARY PERKS";
+"Guaranteed Legendary every 50 pulls!" = "Guaranteed Legendary every 50 pulls!";
+"PULL 1x" = "PULL 1x";
+"PULL 10x" = "PULL 10x";
+"Pity: %d pulls left" = "Pity: %d pulls left";
+"Your bag is empty" = "Your bag is empty";
+"Try your luck at Perk Vault!" = "Try your luck at Perk Vault!";
+"Page %d / %d" = "Page %d / %d";
+"< PREV" = "< PREV";
+"NEXT >" = "NEXT >";
+"USE" = "USE";
+"ADVANCED WEAPONRY" = "ADVANCED WEAPONRY";
+"COLLECT" = "COLLECT";
+"NEXT" = "NEXT";
+"EQUIPPED" = "EQUIPPED";
+"Not Owned" = "Not Owned";
+"Rent" = "Rent";
+"Buy" = "Buy";
+"15 DAYS" = "15 DAYS";
+"LIFETIME" = "LIFETIME";
+"POPULAR" = "POPULAR";
+"Restore Purchases" = "Restore Purchases";
+
+// MARK: - Weapons
+"Pistol" = "Pistol";
+"Default Sidearm" = "Default Sidearm";
+"Shotgun" = "Shotgun";
+"Railgun" = "Railgun";
+"Spinning Blade" = "Spinning Blade";
+
+// MARK: - Gem Packages
+"Handful of Gems" = "Handful of Gems";
+"Pouch of Gems" = "Pouch of Gems";
+"Chest of Gems" = "Chest of Gems";
+"Vault of Gems" = "Vault of Gems";
+
+// MARK: - Social
+"SOCIAL HUB" = "SOCIAL HUB";
+"Open Game Center" = "Open Game Center 🎮";
+"Top Players (Global)" = "Top Players (Global)";
+"Level %d" = "Level %d";
+"Active Bonuses:" = "Active Bonuses:";
+"No Clan" = "No Clan";
+"Available Clans:" = "Available Clans:";
+"JOIN" = "JOIN";
+"Lvl %d • %d Members" = "Lvl %d • %d Members";
+
+// MARK: - Quests
+"QUESTS & PASS" = "QUESTS & PASS";
+
+// MARK: - Abilities Bar
+"UZI" = "UZI";
+"ROCKET" = "ROCKET";
+"FREEZE" = "FREEZE";
+"LASER" = "LASER";
+"SHIELD" = "SHIELD";
+"EMP" = "EMP";
+

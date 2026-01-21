@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationProperties</key>
+	<dict>
+		<key>ApplicationPath</key>
+		<string>Applications/CoreStability.app</string>
+		<key>Architectures</key>
+		<array>
+			<string>arm64</string>
+		</array>
+		<key>CFBundleIdentifier</key>
+		<string>com.cagdasbertanisik.corestability</string>
+		<key>CFBundleShortVersionString</key>
+		<string>1.0</string>
+		<key>CFBundleVersion</key>
+		<string>7</string>
+		<key>SigningIdentity</key>
+		<string>Apple Development: Çağdaş Bertan IŞIK (4G8F5XD88F)</string>
+		<key>Team</key>
+		<string>NP6452FP2L</string>
+	</dict>
+	<key>ArchiveVersion</key>
+	<integer>2</integer>
+	<key>CreationDate</key>
+	<date>2026-01-14T19:49:40Z</date>
+	<key>Name</key>
+	<string>CoreStability</string>
+	<key>SchemeName</key>
+	<string>CoreStability</string>
+</dict>
+</plist>

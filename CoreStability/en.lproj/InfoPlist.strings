@@ -1,0 +1,3 @@
+/* Localized versions of Info.plist keys */
+
+NSUserTrackingUsageDescription = "We need your permission to show you more relevant ads.";

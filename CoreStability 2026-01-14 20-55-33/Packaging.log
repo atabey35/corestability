@@ -1,0 +1,165 @@
+2026-01-14 17:55:28 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0xb4c02cc00; archive(resolved)="<IDEArchive: 0xb49cc80e0>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAppStoreDistribution: 0xb23122450>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0xb2489de00; teamID='NP6452FP2L', teamName='Çağdaş Bertan IŞIK', teamType='Individual', username='promobil13@gmail.com', isFreeProvisioningTeam='0'>">
+	Chain (16, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0xb4c02cc00; archive = "<IDEArchive: 0xb49cc80e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0xb23122450>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xb2489de00; teamID='NP6452FP2L', teamName='Çağdaş Bertan IŞIK', teamType='Individual', username='promobil13@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0xb4c02f900; archive = "<IDEArchive: 0xb49cc80e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0xb23122450>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xb2489de00; teamID='NP6452FP2L', teamName='Çağdaş Bertan IŞIK', teamType='Individual', username='promobil13@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xb1912ea80; archive = "<IDEArchive: 0xb49cc80e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0xb23122450>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xb2489de00; teamID='NP6452FP2L', teamName='Çağdaş Bertan IŞIK', teamType='Individual', username='promobil13@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xb1912e580; archive = "<IDEArchive: 0xb49cc80e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0xb23122450>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xb2489de00; teamID='NP6452FP2L', teamName='Çağdaş Bertan IŞIK', teamType='Individual', username='promobil13@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xb19de2800; archive = "<IDEArchive: 0xb49cc80e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0xb23122450>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xb2489de00; teamID='NP6452FP2L', teamName='Çağdaş Bertan IŞIK', teamType='Individual', username='promobil13@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xb1912aa80; archive = "<IDEArchive: 0xb49cc80e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0xb23122450>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xb2489de00; teamID='NP6452FP2L', teamName='Çağdaş Bertan IŞIK', teamType='Individual', username='promobil13@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xb19129e00; archive = "<IDEArchive: 0xb49cc80e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0xb23122450>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xb2489de00; teamID='NP6452FP2L', teamName='Çağdaş Bertan IŞIK', teamType='Individual', username='promobil13@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xb18cc6800; archive = "<IDEArchive: 0xb49cc80e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0xb23122450>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xb2489de00; teamID='NP6452FP2L', teamName='Çağdaş Bertan IŞIK', teamType='Individual', username='promobil13@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xb19125180; archive = "<IDEArchive: 0xb49cc80e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0xb23122450>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xb2489de00; teamID='NP6452FP2L', teamName='Çağdaş Bertan IŞIK', teamType='Individual', username='promobil13@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xb1912ad00; archive = "<IDEArchive: 0xb49cc80e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0xb23122450>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xb2489de00; teamID='NP6452FP2L', teamName='Çağdaş Bertan IŞIK', teamType='Individual', username='promobil13@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xb19128500; archive = "<IDEArchive: 0xb49cc80e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0xb23122450>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xb2489de00; teamID='NP6452FP2L', teamName='Çağdaş Bertan IŞIK', teamType='Individual', username='promobil13@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xb1912b480; archive = "<IDEArchive: 0xb49cc80e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0xb23122450>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xb2489de00; teamID='NP6452FP2L', teamName='Çağdaş Bertan IŞIK', teamType='Individual', username='promobil13@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xb1b35ca00; archive = "<IDEArchive: 0xb49cc80e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0xb23122450>", team="(null)">
+	<IDEDistributionContext: 0xb19bf3700; archive = "<IDEArchive: 0xb49cc80e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0xb23122450>", team="(null)">
+	<IDEDistributionContext: 0xb19448a00; archive = "<IDEArchive: 0xb49cc80e0>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0xb26e76580; archive = "<IDEArchive: 0xb49cc80e0>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0xb4c02cc00>
+2026-01-14 17:55:28 +0000  Processing step: IDEDistributionCreateDestRootStep
+2026-01-14 17:55:28 +0000  Processing step: IDEDistributionCopyItemStep
+2026-01-14 17:55:28 +0000  Running /usr/bin/ditto '-V' '/Users/ata/Library/Developer/Xcode/Archives/2026-01-14/CoreStability 14.01.2026, 20.54.xcarchive/Products/Applications/CoreStability.app' '/var/folders/mx/wb0sh75d20bc6l8xfzfw282h0000gn/T/XcodeDistPipeline.~~~D2kD3E/Root/Payload/CoreStability.app'
+2026-01-14 17:55:28 +0000  >>> Copying /Users/ata/Library/Developer/Xcode/Archives/2026-01-14/CoreStability 14.01.2026, 20.54.xcarchive/Products/Applications/CoreStability.app 
+2026-01-14 17:55:28 +0000  copying file ./_CodeSignature/CodeResources ... 
+2026-01-14 17:55:28 +0000  4381 bytes for ./_CodeSignature/CodeResources
+2026-01-14 17:55:28 +0000  copying file ./CoreStability ... 
+2026-01-14 17:55:28 +0000  3981408 bytes for ./CoreStability
+2026-01-14 17:55:28 +0000  copying file ./bgm_arcade.mp3 ... 
+2026-01-14 17:55:28 +0000  7807352 bytes for ./bgm_arcade.mp3
+2026-01-14 17:55:28 +0000  copying file ./en.lproj/Localizable.strings ... 
+2026-01-14 17:55:28 +0000  2487 bytes for ./en.lproj/Localizable.strings
+2026-01-14 17:55:28 +0000  copying file ./UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy ... 
+2026-01-14 17:55:28 +0000  1677 bytes for ./UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy
+2026-01-14 17:55:28 +0000  copying file ./UserMessagingPlatformResources.bundle/Info.plist ... 
+2026-01-14 17:55:28 +0000  806 bytes for ./UserMessagingPlatformResources.bundle/Info.plist
+2026-01-14 17:55:28 +0000  copying file ./GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy ... 
+2026-01-14 17:55:28 +0000  4491 bytes for ./GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy
+2026-01-14 17:55:28 +0000  copying file ./GoogleMobileAdsResources.bundle/Info.plist ... 
+2026-01-14 17:55:28 +0000  796 bytes for ./GoogleMobileAdsResources.bundle/Info.plist
+2026-01-14 17:55:28 +0000  copying file ./Assets.car ... 
+2026-01-14 17:55:28 +0000  2233752 bytes for ./Assets.car
+2026-01-14 17:55:28 +0000  copying file ./tr.lproj/Localizable.strings ... 
+2026-01-14 17:55:28 +0000  11298 bytes for ./tr.lproj/Localizable.strings
+2026-01-14 17:55:28 +0000  copying file ./embedded.mobileprovision ... 
+2026-01-14 17:55:28 +0000  12573 bytes for ./embedded.mobileprovision
+2026-01-14 17:55:28 +0000  copying file ./Info.plist ... 
+2026-01-14 17:55:28 +0000  1778 bytes for ./Info.plist
+2026-01-14 17:55:28 +0000  copying file ./PkgInfo ... 
+2026-01-14 17:55:28 +0000  8 bytes for ./PkgInfo
+2026-01-14 17:55:28 +0000  /usr/bin/ditto exited with 0
+2026-01-14 17:55:28 +0000  Processing step: IDEDistributionEmbedProfileStep
+2026-01-14 17:55:28 +0000  Processing step: IDEDistributionInfoPlistStep
+2026-01-14 17:55:28 +0000  Skipping setting DTXcodeBuildDistribution because toolsBuildVersionName was nil.
+2026-01-14 17:55:28 +0000  Processing step: IDEDistributionItemRemovalStep
+2026-01-14 17:55:28 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2026-01-14 17:55:28 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2026-01-14 17:55:28 +0000  Processing step: IDEDistributionSymbolsStep
+2026-01-14 17:55:28 +0000  Writing /var/folders/mx/wb0sh75d20bc6l8xfzfw282h0000gn/T/XcodeDistPipeline.~~~D2kD3E/Symbols/65DB89D3-D780-3B3B-9649-D36D171A5C1F.symbols
+2026-01-14 17:55:28 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2026-01-14 17:55:28 +0000  Processing step: IDEDistributionAppThinningStep
+2026-01-14 17:55:28 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2026-01-14 17:55:28 +0000  Processing step: IDEDistributionArchThinningStep
+2026-01-14 17:55:28 +0000  Archs to thin for item /Users/ata/Library/Developer/Xcode/Archives/2026-01-14/CoreStability 14.01.2026, 20.54.xcarchive/Products/Applications/CoreStability.app are []
+2026-01-14 17:55:28 +0000  Processing step: IDEDistributionODRStep
+2026-01-14 17:55:28 +0000  Processing step: IDEDistributionStripXattrsStep
+2026-01-14 17:55:28 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2026-01-14 17:55:28 +0000  Processing step: IDEDistributionCodesignStep
+2026-01-14 17:55:28 +0000  Entitlements for <IDEDistributionItem: 0xb49c35fe0; bundleID='com.cagdasbertanisik.corestability', path='<DVTFilePath:0xb3e43ad80:'/Users/ata/Library/Developer/Xcode/Archives/2026-01-14/CoreStability 14.01.2026, 20.54.xcarchive/Products/Applications/CoreStability.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0xb49c270c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0xb4a32a700; name='Apple Development: Çağdaş Bertan IŞIK (4G8F5XD88F)', hash='1A51D9D35B420602C98BBD612BCC435943CA25FF', serialNumber='5CBEE191CCDB6A0DDAF29CF11AFDA2D8', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2026-01-13 16:26:26 +0000''>', entitlements='{
+    "application-identifier" = "NP6452FP2L.com.cagdasbertanisik.corestability";
+    "com.apple.developer.game-center" = 1;
+    "com.apple.developer.team-identifier" = NP6452FP2L;
+    "get-task-allow" = 1;
+}', teamID='NP6452FP2L', identifier='com.cagdasbertanisik.corestability', executablePath='<DVTFilePath:0xb49cfbf00:'/Users/ata/Library/Developer/Xcode/Archives/2026-01-14/CoreStability 14.01.2026, 20.54.xcarchive/Products/Applications/CoreStability.app/CoreStability'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "NP6452FP2L.com.cagdasbertanisik.corestability";
+    "beta-reports-active" = 1;
+    "com.apple.developer.game-center" = 1;
+    "com.apple.developer.team-identifier" = NP6452FP2L;
+    "get-task-allow" = 0;
+}
+2026-01-14 17:55:28 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2026-01-14 17:55:28 +0000  Entitlements for <IDEDistributionItem: 0xb49c35fe0; bundleID='com.cagdasbertanisik.corestability', path='<DVTFilePath:0xb3e43ad80:'/Users/ata/Library/Developer/Xcode/Archives/2026-01-14/CoreStability 14.01.2026, 20.54.xcarchive/Products/Applications/CoreStability.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0xb49c270c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0xb4a328b40; name='Apple Development: Çağdaş Bertan IŞIK (4G8F5XD88F)', hash='1A51D9D35B420602C98BBD612BCC435943CA25FF', serialNumber='5CBEE191CCDB6A0DDAF29CF11AFDA2D8', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2026-01-13 16:26:26 +0000''>', entitlements='{
+    "application-identifier" = "NP6452FP2L.com.cagdasbertanisik.corestability";
+    "com.apple.developer.game-center" = 1;
+    "com.apple.developer.team-identifier" = NP6452FP2L;
+    "get-task-allow" = 1;
+}', teamID='NP6452FP2L', identifier='com.cagdasbertanisik.corestability', executablePath='<DVTFilePath:0xb49cfbf00:'/Users/ata/Library/Developer/Xcode/Archives/2026-01-14/CoreStability 14.01.2026, 20.54.xcarchive/Products/Applications/CoreStability.app/CoreStability'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "NP6452FP2L.com.cagdasbertanisik.corestability";
+    "beta-reports-active" = 1;
+    "com.apple.developer.game-center" = 1;
+    "com.apple.developer.team-identifier" = NP6452FP2L;
+    "get-task-allow" = 0;
+}
+2026-01-14 17:55:28 +0000  Writing entitlements for <IDEDistributionItem: 0xb49c35fe0; bundleID='com.cagdasbertanisik.corestability', path='<DVTFilePath:0xb3e43ad80:'/Users/ata/Library/Developer/Xcode/Archives/2026-01-14/CoreStability 14.01.2026, 20.54.xcarchive/Products/Applications/CoreStability.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0xb49c270c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0xb4a328b40; name='Apple Development: Çağdaş Bertan IŞIK (4G8F5XD88F)', hash='1A51D9D35B420602C98BBD612BCC435943CA25FF', serialNumber='5CBEE191CCDB6A0DDAF29CF11AFDA2D8', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2026-01-13 16:26:26 +0000''>', entitlements='{
+    "application-identifier" = "NP6452FP2L.com.cagdasbertanisik.corestability";
+    "com.apple.developer.game-center" = 1;
+    "com.apple.developer.team-identifier" = NP6452FP2L;
+    "get-task-allow" = 1;
+}', teamID='NP6452FP2L', identifier='com.cagdasbertanisik.corestability', executablePath='<DVTFilePath:0xb49cfbf00:'/Users/ata/Library/Developer/Xcode/Archives/2026-01-14/CoreStability 14.01.2026, 20.54.xcarchive/Products/Applications/CoreStability.app/CoreStability'>', hardenedRuntime='0'>'> to: /var/folders/mx/wb0sh75d20bc6l8xfzfw282h0000gn/T/XcodeDistPipeline.~~~D2kD3E/entitlements~~~1fYLYR
+2026-01-14 17:55:28 +0000  invoking codesign: <NSConcreteTask: 0xb1991b7f0; launchPath='/usr/bin/codesign', arguments='(
+    "-f",
+    "-s",
+    64915CDF868090AB4B41790DC2978307B36891A1,
+    "--entitlements",
+    "/var/folders/mx/wb0sh75d20bc6l8xfzfw282h0000gn/T/XcodeDistPipeline.~~~D2kD3E/entitlements~~~1fYLYR",
+    "--preserve-metadata=identifier,flags,runtime,launch-constraints,library-constraints",
+    "--generate-entitlement-der",
+    "--strip-disallowed-xattrs",
+    "-vvv",
+    "/var/folders/mx/wb0sh75d20bc6l8xfzfw282h0000gn/T/XcodeDistPipeline.~~~D2kD3E/Root/Payload/CoreStability.app"
+)'>
+2026-01-14 17:55:28 +0000  codesign output: /var/folders/mx/wb0sh75d20bc6l8xfzfw282h0000gn/T/XcodeDistPipeline.~~~D2kD3E/Root/Payload/CoreStability.app: replacing existing signature
+/var/folders/mx/wb0sh75d20bc6l8xfzfw282h0000gn/T/XcodeDistPipeline.~~~D2kD3E/Root/Payload/CoreStability.app: signed app bundle with Mach-O thin (arm64) [com.cagdasbertanisik.corestability]
+2026-01-14 17:55:28 +0000  Processing step: IDEDistributionZipODRItemStep
+2026-01-14 17:55:28 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2026-01-14 17:55:28 +0000  Processing step: IDEDistributionCreateIPAStep
+2026-01-14 17:55:28 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/mx/wb0sh75d20bc6l8xfzfw282h0000gn/T/XcodeDistPipeline.~~~D2kD3E/Symbols' '--link-dest' '/var/folders/mx/wb0sh75d20bc6l8xfzfw282h0000gn/T/XcodeDistPipeline.~~~D2kD3E' '/var/folders/mx/wb0sh75d20bc6l8xfzfw282h0000gn/T/XcodeDistPipeline.~~~D2kD3E/Root'
+2026-01-14 17:55:28 +0000  Symbols/
+Symbols/65DB89D3-D780-3B3B-9649-D36D171A5C1F.symbols
+2026-01-14 17:55:28 +0000  /usr/bin/rsync exited with 0
+2026-01-14 17:55:28 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/mx/wb0sh75d20bc6l8xfzfw282h0000gn/T/XcodeDistPipeline.~~~D2kD3E/Root' '/var/folders/mx/wb0sh75d20bc6l8xfzfw282h0000gn/T/XcodeDistPipeline.~~~D2kD3E/Packages/CoreStability.ipa'
+2026-01-14 17:55:28 +0000  >>> Copying /var/folders/mx/wb0sh75d20bc6l8xfzfw282h0000gn/T/XcodeDistPipeline.~~~D2kD3E/Root 
+2026-01-14 17:55:28 +0000  copying file ./Payload/CoreStability.app/_CodeSignature/CodeResources ... 
+2026-01-14 17:55:28 +0000  4381 bytes for ./Payload/CoreStability.app/_CodeSignature/CodeResources
+2026-01-14 17:55:28 +0000  copying file ./Payload/CoreStability.app/CoreStability ... 
+2026-01-14 17:55:28 +0000  3981472 bytes for ./Payload/CoreStability.app/CoreStability
+2026-01-14 17:55:28 +0000  copying file ./Payload/CoreStability.app/bgm_arcade.mp3 ... 
+2026-01-14 17:55:28 +0000  7807352 bytes for ./Payload/CoreStability.app/bgm_arcade.mp3
+2026-01-14 17:55:28 +0000  copying file ./Payload/CoreStability.app/en.lproj/Localizable.strings ... 
+2026-01-14 17:55:28 +0000  2487 bytes for ./Payload/CoreStability.app/en.lproj/Localizable.strings
+2026-01-14 17:55:28 +0000  copying file ./Payload/CoreStability.app/UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy ... 
+2026-01-14 17:55:28 +0000  1677 bytes for ./Payload/CoreStability.app/UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy
+2026-01-14 17:55:28 +0000  copying file ./Payload/CoreStability.app/UserMessagingPlatformResources.bundle/Info.plist ... 
+2026-01-14 17:55:28 +0000  806 bytes for ./Payload/CoreStability.app/UserMessagingPlatformResources.bundle/Info.plist
+2026-01-14 17:55:28 +0000  copying file ./Payload/CoreStability.app/GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy ... 
+2026-01-14 17:55:28 +0000  4491 bytes for ./Payload/CoreStability.app/GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy
+2026-01-14 17:55:28 +0000  copying file ./Payload/CoreStability.app/GoogleMobileAdsResources.bundle/Info.plist ... 
+2026-01-14 17:55:28 +0000  796 bytes for ./Payload/CoreStability.app/GoogleMobileAdsResources.bundle/Info.plist
+2026-01-14 17:55:28 +0000  copying file ./Payload/CoreStability.app/Assets.car ... 
+2026-01-14 17:55:28 +0000  2233752 bytes for ./Payload/CoreStability.app/Assets.car
+2026-01-14 17:55:28 +0000  copying file ./Payload/CoreStability.app/tr.lproj/Localizable.strings ... 
+2026-01-14 17:55:28 +0000  11298 bytes for ./Payload/CoreStability.app/tr.lproj/Localizable.strings
+2026-01-14 17:55:28 +0000  copying file ./Payload/CoreStability.app/embedded.mobileprovision ... 
+2026-01-14 17:55:28 +0000  14593 bytes for ./Payload/CoreStability.app/embedded.mobileprovision
+2026-01-14 17:55:28 +0000  copying file ./Payload/CoreStability.app/Info.plist ... 
+2026-01-14 17:55:28 +0000  1778 bytes for ./Payload/CoreStability.app/Info.plist
+2026-01-14 17:55:28 +0000  copying file ./Payload/CoreStability.app/PkgInfo ... 
+2026-01-14 17:55:28 +0000  8 bytes for ./Payload/CoreStability.app/PkgInfo
+2026-01-14 17:55:28 +0000  copying file ./Symbols/65DB89D3-D780-3B3B-9649-D36D171A5C1F.symbols ... 
+2026-01-14 17:55:29 +0000  2012300 bytes for ./Symbols/65DB89D3-D780-3B3B-9649-D36D171A5C1F.symbols
+2026-01-14 17:55:29 +0000  /usr/bin/ditto exited with 0
+2026-01-14 17:55:29 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2026-01-14 17:55:29 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2026-01-14 17:55:29 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2026-01-14 17:55:29 +0000  IDEDistributionItem init <DVTFilePath:0xb3b840700:'/var/folders/mx/wb0sh75d20bc6l8xfzfw282h0000gn/T/XcodeDistPipeline.~~~D2kD3E/Root/Payload/CoreStability.app'>
+2026-01-14 17:55:29 +0000  Processing step: IDEDistributionCreateManifestStep
+2026-01-14 17:55:29 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so

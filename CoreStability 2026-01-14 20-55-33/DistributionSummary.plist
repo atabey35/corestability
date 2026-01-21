@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CoreStability.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>64915CDF868090AB4B41790DC2978307B36891A1</string>
+				<key>dateExpires</key>
+				<string>13.01.2027</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>NP6452FP2L.com.cagdasbertanisik.corestability</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.game-center</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>NP6452FP2L</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>CoreStability.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>28a2bf8d-cbed-441f-9636-2a0557fa0655</string>
+				<key>dateExpires</key>
+				<string>13.01.2027</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.cagdasbertanisik.corestability</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>NP6452FP2L</string>
+				<key>name</key>
+				<string>Çağdaş Bertan IŞIK</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
